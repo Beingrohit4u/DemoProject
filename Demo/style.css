@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.background-img{
+    background-image: url('images/cool-background.png');
+    background-repeat: no-repeat;
+}
+
+.collapse .nav-item{
+    /* margin: 0 40px; */
+    /* font-size: 16px; */
+    /* font-weight: 600; */
+        font-family: 'Poppins', sans-serif;
+
+}
+.navbar .form-inline .btn{
+    color: #57ace4;
+    border: 2px solid #57ace4;
+    border-radius: 14px;
+    padding: 9px 22px;
+    font-weight: 300;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+        font-family: 'Poppins', sans-serif;
+    padding-left: 20px;
+    border: none;
+
+}
+.navbar .form-inline .btn:hover{
+    color: #ffffff;
+    background-color: #57ace4;
+
+   
+}
+
+.content .image img{
+    height: 150px;
+    width: auto;
+}
+
+.content .text-content H5{
+    font-weight: 700;
+    font-size: 44px;
+}
+.content .para p{
+    font-size: 18px ;
+}
+.content .contact_us .c_us{
+    box-shadow: 0px  4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease 0s;
+    padding: 16px 28px;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.c_us:hover {
+    background-color: #2EE59D;
+    color: #fff;
+    transform: translateY(-2px);
+  }
+  .content .para2 p{
+   padding-top: 50px;
+}
